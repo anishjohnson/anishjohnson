@@ -25,6 +25,4 @@ Data Science Trainee.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/anishjohnson"><img src="https://github-readme-stats.vercel.app/api?username=anishjohnson&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=10b981&icon_color=64748b&bg_color=22272e&hide_border=true&show_icons=true" alt="anishjohnson's GitHub stats" /></a>
-
-<a href="http://www.github.com/anishjohnson"><img src="https://activity-graph.herokuapp.com/graph?username=anishjohnson&bg_color=22272e&color=10b981&line=64748b&point=10b981&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/anishjohnson"><img src="https://activity-graph.herokuapp.com/graph?username=anishjohnson&bg_color=ffffff&color=64748b&line=64748b&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
