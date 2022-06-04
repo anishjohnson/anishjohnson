@@ -6,7 +6,7 @@ Data Science Trainee.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [anishjohnson05@gmail.com](mailto:anishjohnson05@gmail.com)
-* 🧠  I'm learning Data Science at AlmaBetter.
+* 🧠  Currently learning Data Science at AlmaBetter.
 * 🤝  I'm open to collaborating on Machine Learning and Deep Learning Projects.
 
 ### Skills
@@ -16,12 +16,6 @@ Data Science Trainee.
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/anishjohnson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anish-johnson-594110208/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/anishjohnson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
