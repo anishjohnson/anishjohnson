@@ -1,4 +1,4 @@
-Hi 👋 This is Anish Johnson
+Hey, 👋 This is Anish Johnson
 ==============================
 
 Data Science Trainee.
