@@ -6,8 +6,8 @@ Data Science Trainee.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [anishjohnson05@gmail.com](mailto:anishjohnson05@gmail.com)
-* 🧠  Currently learning Data Science at AlmaBetter.
-* 🤝  I'm open to collaborating on Machine Learning and Deep Learning Projects.
+* 🧠  Currently working as a Data Engineer at LatentView Analytics.
+* 🤝  I'm open to collaborating on anything that consumes data.
 
 ### Skills
 
