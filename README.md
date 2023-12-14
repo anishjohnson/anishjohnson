@@ -1,12 +1,13 @@
-Hey, 👋 This is Anish Johnson
-==============================
+Hey, 👋 This is Anish
+======================
 
-Data Science Trainee.
----------------------
+Business Analyst
+----------------
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [anishjohnson05@gmail.com](mailto:anishjohnson05@gmail.com)
-* 🧠  Currently working as a Data Engineer at LatentView Analytics.
+* 🧠  Currently working as a Business Analyst at BrightChamps.
+* ⏮️  Previously worked as a Data Analyst at LatentView Analytics.
 * 🤝  I'm open to collaborating on anything that consumes data.
 
 ### Skills
